@@ -1,1 +1,1 @@
-![Metrics](https://github.com/apvarun/apvarun/blob/master/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/apvarun/apvarun/main/github-metrics.svg)
