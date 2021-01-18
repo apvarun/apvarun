@@ -744,7 +744,7 @@
         </div>
         <div class="field">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/></svg>
-          49662 Stargazers
+          49666 Stargazers
         </div>
         <div class="field">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/></svg>
@@ -772,21 +772,21 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="304.86517572356854" height="8" fill="#f1e05a"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="304.937197893797" height="8" fill="#f1e05a"/>
         
-          <rect mask="url(#languages-bar)" x="304.86517572356854" y="0" width="118.96039734960772" height="8" fill="#2b7489"/>
+          <rect mask="url(#languages-bar)" x="304.937197893797" y="0" width="118.90516935016707" height="8" fill="#2b7489"/>
         
-          <rect mask="url(#languages-bar)" x="423.82557307317626" y="0" width="12.99314078378207" height="8" fill="#e34c26"/>
+          <rect mask="url(#languages-bar)" x="423.8423672439641" y="0" width="12.987108648820131" height="8" fill="#e34c26"/>
         
-          <rect mask="url(#languages-bar)" x="436.8187138569583" y="0" width="12.322659475546272" height="8" fill="#563d7c"/>
+          <rect mask="url(#languages-bar)" x="436.8294758927842" y="0" width="12.316938615110487" height="8" fill="#563d7c"/>
         
-          <rect mask="url(#languages-bar)" x="449.1413733325046" y="0" width="5.783308214874518" height="8" fill="#b07219"/>
+          <rect mask="url(#languages-bar)" x="449.1464145078947" y="0" width="5.780623283166384" height="8" fill="#b07219"/>
         
-          <rect mask="url(#languages-bar)" x="454.92468154737907" y="0" width="2.937548885608139" height="8" fill="#2c3e50"/>
+          <rect mask="url(#languages-bar)" x="454.9270377910611" y="0" width="2.936185112858335" height="8" fill="#2c3e50"/>
         
-          <rect mask="url(#languages-bar)" x="457.86223043298725" y="0" width="0.7121652316631661" height="8" fill="#3572A5"/>
+          <rect mask="url(#languages-bar)" x="457.8632229039194" y="0" width="0.7118346051530651" height="8" fill="#3572A5"/>
         
-          <rect mask="url(#languages-bar)" x="458.5743956646504" y="0" width="0.6462069691261423" height="8" fill="#4F5D95"/>
+          <rect mask="url(#languages-bar)" x="458.5750575090725" y="0" width="0.6459069640914874" height="8" fill="#4F5D95"/>
         
       </svg>
       <div class="field center horizontal-wrap fill-width">
@@ -2013,7 +2013,7 @@
       
         <footer>
           <span>These metrics do not include all private contributions, timezone Asia/Calcutta</span>
-          <span>Last updated Mon, 18 Jan 2021 12:42:30 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Mon, 18 Jan 2021 16:55:35 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
