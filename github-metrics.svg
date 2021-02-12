@@ -881,21 +881,21 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="302.57610865291764" height="8" fill="#f1e05a"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="302.53914226764823" height="8" fill="#f1e05a"/>
         
-          <rect mask="url(#languages-bar)" x="302.57610865291764" y="0" width="123.03353303817372" height="8" fill="#2b7489"/>
+          <rect mask="url(#languages-bar)" x="302.53914226764823" y="0" width="123.05113189442515" height="8" fill="#2b7489"/>
         
-          <rect mask="url(#languages-bar)" x="425.6096416910914" y="0" width="12.414416673661261" height="8" fill="#e34c26"/>
+          <rect mask="url(#languages-bar)" x="425.5902741620734" y="0" width="12.421408068546107" height="8" fill="#e34c26"/>
         
-          <rect mask="url(#languages-bar)" x="438.02405836475265" y="0" width="12.203244129355348" height="8" fill="#563d7c"/>
+          <rect mask="url(#languages-bar)" x="438.0116822306195" y="0" width="12.210116598745353" height="8" fill="#563d7c"/>
         
-          <rect mask="url(#languages-bar)" x="450.227302494108" y="0" width="5.5257153852497325" height="8" fill="#b07219"/>
+          <rect mask="url(#languages-bar)" x="450.22179882936484" y="0" width="5.5288272880716764" height="8" fill="#b07219"/>
         
-          <rect mask="url(#languages-bar)" x="455.75301787935774" y="0" width="2.8067082833973234" height="8" fill="#2c3e50"/>
+          <rect mask="url(#languages-bar)" x="455.7506261174365" y="0" width="2.808288930031928" height="8" fill="#2c3e50"/>
         
-          <rect mask="url(#languages-bar)" x="458.55972616275506" y="0" width="0.7598289722592204" height="8" fill="#89e051"/>
+          <rect mask="url(#languages-bar)" x="458.5589150474685" y="0" width="0.7602568831735755" height="8" fill="#89e051"/>
         
-          <rect mask="url(#languages-bar)" x="459.3195551350143" y="0" width="0.68044486498572" height="8" fill="#3572A5"/>
+          <rect mask="url(#languages-bar)" x="459.319171930642" y="0" width="0.6808280693579862" height="8" fill="#3572A5"/>
         
       </svg>
       
@@ -973,8 +973,8 @@
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
                 
-                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="302.68 329"/>
-                  <text x="60" y="60" dominant-baseline="central">92</text>
+                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="299.39 329"/>
+                  <text x="60" y="60" dominant-baseline="central">91</text>
                 
               </svg>
               <span class="title">Performance</span>
@@ -2120,7 +2120,7 @@
           
             <span>These metrics do not include all private contributions, timezone Asia/Calcutta</span>
           
-          <span>Last updated Fri, 12 Feb 2021 12:20:49 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Fri, 12 Feb 2021 16:28:10 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
