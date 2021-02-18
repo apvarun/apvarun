@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1527" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1479" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -700,7 +700,7 @@
           </div>
           <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/></svg>
-            Followed by 41 users
+            Followed by 40 users
           </div>
           
             <div class="field hire">
@@ -714,25 +714,25 @@
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
               <g>
                 
-                  <rect class="day" x="0" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                  <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                 
-                  <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                  <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
-                  <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
                   <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                  <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
-                  <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                  <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
-                  <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
                   <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
@@ -850,7 +850,7 @@
         </div>
         <div class="field">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/></svg>
-          50104 Stargazers
+          50105 Stargazers
         </div>
         <div class="field">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/></svg>
@@ -881,21 +881,21 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="301.86285321889017" height="8" fill="#f1e05a"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="301.8606573120211" height="8" fill="#f1e05a"/>
         
-          <rect mask="url(#languages-bar)" x="301.86285321889017" y="0" width="123.97659100605966" height="8" fill="#2b7489"/>
+          <rect mask="url(#languages-bar)" x="301.8606573120211" y="0" width="123.97831255633001" height="8" fill="#2b7489"/>
         
-          <rect mask="url(#languages-bar)" x="425.83944422494983" y="0" width="12.308603717357359" height="8" fill="#e34c26"/>
+          <rect mask="url(#languages-bar)" x="425.83896986835106" y="0" width="12.308774635753206" height="8" fill="#e34c26"/>
         
-          <rect mask="url(#languages-bar)" x="438.14804794230713" y="0" width="12.134392695841962" height="8" fill="#563d7c"/>
+          <rect mask="url(#languages-bar)" x="438.14774450410425" y="0" width="12.134561195127649" height="8" fill="#563d7c"/>
         
-          <rect mask="url(#languages-bar)" x="450.28244063814907" y="0" width="5.494538968435599" height="8" fill="#b07219"/>
+          <rect mask="url(#languages-bar)" x="450.2823056992319" y="0" width="5.494615266105747" height="8" fill="#b07219"/>
         
-          <rect mask="url(#languages-bar)" x="455.7769796065847" y="0" width="2.790872667333482" height="8" fill="#2c3e50"/>
+          <rect mask="url(#languages-bar)" x="455.77692096533764" y="0" width="2.790911421646341" height="8" fill="#2c3e50"/>
         
-          <rect mask="url(#languages-bar)" x="458.5678522739182" y="0" width="0.7555419717362036" height="8" fill="#89e051"/>
+          <rect mask="url(#languages-bar)" x="458.567832386984" y="0" width="0.7555524632610565" height="8" fill="#89e051"/>
         
-          <rect mask="url(#languages-bar)" x="459.3233942456544" y="0" width="0.6766057543455919" height="8" fill="#3572A5"/>
+          <rect mask="url(#languages-bar)" x="459.3233848502451" y="0" width="0.6766151497549179" height="8" fill="#3572A5"/>
         
       </svg>
       
@@ -973,8 +973,8 @@
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
                 
-                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="296.1 329"/>
-                  <text x="60" y="60" dominant-baseline="central">90</text>
+                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="299.39 329"/>
+                  <text x="60" y="60" dominant-baseline="central">91</text>
                 
               </svg>
               <span class="title">Performance</span>
@@ -1137,13 +1137,13 @@
             
               
                 <div class="tweet">
-                  Day 2:<br /><br />🧑‍💻 Wiring up a landing page for validation<br />💬 More chats/meetings with people, helping to narrow the audience by eliminating certain category of people (still very broad at the moment)<br /><br /> <span class="hashtag">#buildinpublic</span>   <span class="link">t.co/2kz4oU36DN</span>   <span class="link">t.co/GSNW2JTv22</span> 
-                  <div class="date">Tue, 16 Feb 2021 21:25:51 GMT</div>
+                  A resource that really helped while talking to potential users<br /><br /> <span class="link">t.co/jDhEvDZ9Jz</span> 
+                  <div class="date">Wed, 17 Feb 2021 20:29:55 GMT</div>
                 </div>
               
                 <div class="tweet">
-                  RT  <span class="mention">@ameerthehacker</span> : Introducing Blazepack ⚡ a super fast dev server powered by  <span class="mention">@codesandbox</span>  sandpack bundler.<br /><br />🔥 Starts faster<br />😎 Instant fe…
-                  <div class="date">Tue, 16 Feb 2021 15:53:28 GMT</div>
+                  Day 3:<br /><br />🎯 Still narrowing down the audience, more meetings scheduled 😇<br />🚀 Launching the landing page tomorrow<br /><br /> <span class="hashtag">#buildinpublic</span>   <span class="link">t.co/SARcM7Suym</span> 
+                  <div class="date">Wed, 17 Feb 2021 20:29:22 GMT</div>
                 </div>
               
             
@@ -1198,9 +1198,9 @@
                       <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.125 1.7,3.125 z"/>
                     </g>
                     <g transform="translate(-1.7, 6.25)">
-                      <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                      <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.75 0,1.75 z"/>
-                      <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.75 1.7,2.75 z"/>
+                      <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                      <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.75 0,1.75 z"/>
+                      <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.75 1.7,2.75 z"/>
                     </g>
                     <g transform="translate(-3.4, 6.875)">
                       <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2121,6 +2121,11 @@
                       <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                       <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                       <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                    </g>
+                    <g transform="translate(-6.8, 10)">
+                      <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                      <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                      <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                     </g></g></g></svg>
     
   </section>
@@ -2145,7 +2150,7 @@
           
             <span>These metrics do not include all private contributions, timezone Asia/Calcutta</span>
           
-          <span>Last updated Wed, 17 Feb 2021 20:15:58 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Thu, 18 Feb 2021 00:37:16 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
