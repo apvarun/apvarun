@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1568" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1534" class="">
     <defs>
         <style/>
     </defs>
@@ -1313,8 +1313,8 @@
                         <div class="categorie column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="322.42 329"/>
-                                <text x="60" y="60" dominant-baseline="central">98</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="325.71 329"/>
+                                <text x="60" y="60" dominant-baseline="central">99</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -1393,14 +1393,14 @@
             
           </div>
                         <div class="tweet">
+                  Offline experience of Airbnb app is quite developer friendly 😅 <a href="https://t.co/YZHA5f5m5Q" class="link">pic.twitter.com/YZHA5f5m5Q</a>
+                  
+                  <div class="date">15:20 on 15/05/2021</div>
+                </div>
+                        <div class="tweet">
                   Day 89 of  <span class="hashtag">#BuildInPublic:</span> <br /><br />Made minor changes to load the page tree fully on initial load. Planning to remove the invite flow to allow more people to use the app directly, without any wait-time <a href="https://t.co/F3zzrTIYQH" class="link">twitter.com/apvarun/status…</a>
                   
                   <div class="date">01:27 on 15/05/2021</div>
-                </div>
-                        <div class="tweet">
-                  Let's ensure to put ourselves before anything 🙌🏻  While Indiehacking, we tend to skip these little things.<br /><br />/CC: <span class="mention">@IndieHackers</span>
-                  
-                  <div class="date">17:25 on 14/05/2021</div>
                 </div>
                     </section>
                 </div>
@@ -2407,7 +2407,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions, timezone Asia/Calcutta</span>
-                <span>Last updated Sat, 15 May 2021 00:34:26 GMT with lowlighter/metrics@3.9.0</span>
+                <span>Last updated Sat, 15 May 2021 12:14:40 GMT with lowlighter/metrics@3.9.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
